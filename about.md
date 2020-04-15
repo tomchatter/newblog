@@ -1,4 +1,1 @@
----
-name: about this whole thing
-content: this is an about file
----
+content: this is an about fil
