@@ -1,1 +1,4 @@
-let's rock
+---
+layout: page
+content: let's rock
+---
